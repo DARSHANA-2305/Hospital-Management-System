@@ -296,3 +296,9 @@ The **Hospital Management System** is a simple CRUD-based web application that d
 The project provides basic patient record management through Create, Read, Update, and Delete operations and stores the records using browser LocalStorage.
 
 It is suitable as a beginner-level academic mini project for understanding the fundamentals of web application development.
+
+
+
+
+OUTPUT LINK  :
+https://darshana-2305.github.io/Hospital-Management-System/
